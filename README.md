@@ -11,19 +11,13 @@ Poseidon Nitro Sniper is a Python program that snipes Discord Nitro gift codes f
 - Automatically snipes Discord Nitro gift codes from messages
 - Sends a webhook message and a Windows toast notification when a Nitro code is sniped
 - Displays a Discord Rich Presence (RPC) presence with the status "Sniping nitro.."
+- Library created specifically for selfbotting (Selfcord) Made by Shell
 
 ## Prerequisites
 
 Before running the program, make sure you have the following:
 
 - Python 3.7 or higher installed on your system
-
-## Features
-
-- Automatically snipes Discord Nitro gift codes from messages
-- Sends a webhook message and a Windows toast notification when a Nitro code is sniped
-- Displays a Discord Rich Presence (RPC) presence with the status "Sniping nitro.."
-- Library created specifically for selfbotting (Selfcord) Made by Shell
 
 ## Usage
 
